@@ -1,0 +1,14 @@
+{
+  "psi-header.variables": [
+    ["projectname", "neverside"],
+    ["author", "wess"],
+    ["authoremail", "me@wess.io"],
+    ["company", "Wess.io"]
+  ],
+  "Lua.runtime.version": "LuaJIT",
+  "Lua.workspace.library": [
+    "${3rd}/love2d/library"
+  ],
+  "Lua.workspace.checkThirdParty": false
+}
+
